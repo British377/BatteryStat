@@ -3,10 +3,10 @@
 </p>
 <div style="box-sizing: border-box;">
   <h2 align="center">Hi 👋, I'm <a href="https://t.me/Rinker001" target="_blank">Rinker (Russian Capital)</a>
-    <img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" height="36" style="margin: 1px; box-sizing: border-box; position: relative;">
+    <img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg" height="24" style="margin: 1px; box-sizing: border-box; position: relative;">
   <br><br>
 		I am a novice developer in Frontend and Backend technologies from Russia 
-    <img src="https://emojisup.org/images/emoji/google/16-0/flag-russia.png" height="36" style="margin: 1px; box-sizing: border-box; position: relative;"/>
+    <img src="https://emojisup.org/images/emoji/google/16-0/flag-russia.png" height="24" style="margin: 1px; box-sizing: border-box; position: relative;"/>
   </h2>
 </div>
 <div style="box-sizing: border-box;">
