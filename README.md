@@ -32,12 +32,12 @@
 <h2 tabindex="-1" class="heading-element" dir="auto">🛠️ Requirements</h2>
 <div>
 
-|System requirements                         |Required components               |
-|:------------------------------------------:|:--------------------------------:|
-|Rooted Android device                       |su (for root access)              |
-|Installed Root Manager (Magisk, KSU, APatch)|jq (for JSON processing)          |
-|Android 14.0 or higher                      |bc (for mathematical calculations)|
-|BusyBox support                             |busybox (for system commands)     |
+|System requirements                         |Required components                                                                               |
+|:------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+|Rooted Android device                       |su (for root access)                                                                              |
+|Installed Root Manager (Magisk, KSU, APatch)|jq (for JSON processing)                                                                          |
+|Android 14.0 or higher                      |bc (for mathematical calculations)                                                                |
+|BusyBox support                             |WebRoot Module (<a href="https://github.com/zerxfox/Webroot-Manager" target="_blank">Download</a>)|
 
 </div>
 <h2 tabindex="-1" class="heading-element" dir="auto">💻 Advantages of using</h2>
