@@ -1,0 +1,17 @@
+id=BatteryStats
+name=Battery Stats
+version=1.0000.0T
+versionCode=100000
+author=Rinker001
+description=Battery Analysis Information Module
+
+# Version: 1.0000.0
+#          1           - Initial version
+#          0000       - Release version based on tests
+#          0          - The final figure of the last test
+#          T/B/S      - Test, Beta, Stable
+
+# Version Code: 100000
+#          1           - Initial version
+#          0000       - Release version based on tests
+#          0          - The final figure of the last test
